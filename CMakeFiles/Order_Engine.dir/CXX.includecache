@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chenshijian/OrderBook_Engine/Book.cpp
+
+/home/chenshijian/OrderBook_Engine/CreateOrder.cpp
+
+/home/chenshijian/OrderBook_Engine/Engine.cpp
+
+/home/chenshijian/OrderBook_Engine/Logger.cpp
+
+/home/chenshijian/OrderBook_Engine/Order.cpp
+
+/home/chenshijian/OrderBook_Engine/main.cpp
+
